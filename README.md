@@ -7,10 +7,6 @@
 
 📄VERSION 1.7.2📄                                                                                                                            
 
-Link of the game : 
-
-Script to execute : loadstring(game:HttpGet("https://raw.githubusercontent.com/Logorkill/Floppy-Menu/main/FloppyPlaytime.lua"))()
-
 FEATURES:
   - 🔥Instant Win   #-- Teleport to the map ending --#
   - 🔥Item Bypass   #-- Bypass the use of every items --#
