@@ -1,3 +1,9 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![Unlicense License][license-shield]][license-url]
+
 📄VERSION 1.7.2📄                                                                                                                            
 
 Link of the game : https://www.roblox.com/games/8012821049/Floppys-Playtime
