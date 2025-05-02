@@ -4,8 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 [![roblox]][roblox-url]
 [![LUA]][LUA-url]
-
-📄VERSION 1.7.2📄                                                                                                                            
+[![release]][release-url]                                                                                                                          
 
 FEATURES:
   - 🔥Instant Win   #-- Teleport to the map ending --#
@@ -40,3 +39,5 @@ FEATURES:
 [LUA-url]: https://www.lua.org/
 [roblox]: https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=%236ea2f5&label=game%20page&color=%236ea2f5
 [roblox-url]: https://www.roblox.com/games/8012821049/Floppys-Playtime
+[release]: https://img.shields.io/github/v/release/Logorkill/Floppy-Menu.svg?style=for-the-badge
+[release-url]: https://github.com/Logorkill/Floppy-Menu/releases/tag/1.7.2
